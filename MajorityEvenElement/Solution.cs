@@ -14,14 +14,13 @@ namespace MajorityEvenElement
            // Hashtable table = new Hashtable();
            Dictionary<int,int> table = new Dictionary<int,int>();
             int timesOccurences = 0;
-            int element = -9999999;
+            int element = -1;
 
             for(int i = 0; i < nums.Length; i++) 
             {
                 int current = nums[i];
                 if (current%2 == 0)
                 {
-                    // table.Add(current, table.GetValueOrDefault(current ,0)+1);
                     table[current] = table.GetValueOrDefault(current, 0) + 1;
                     if (table[current] > timesOccurences) 
                     {
