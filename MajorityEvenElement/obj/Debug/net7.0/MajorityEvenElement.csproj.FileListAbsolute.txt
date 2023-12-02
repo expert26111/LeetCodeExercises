@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\bin\Debug\net7.0\MajorityEvenElement.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\bin\Debug\net7.0\MajorityEvenElement.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\bin\Debug\net7.0\MajorityEvenElement.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\bin\Debug\net7.0\MajorityEvenElement.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\bin\Debug\net7.0\MajorityEvenElement.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\refint\MajorityEvenElement.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\MajorityEvenElement.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MajorityEvenElement\obj\Debug\net7.0\ref\MajorityEvenElement.dll
