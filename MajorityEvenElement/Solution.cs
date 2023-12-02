@@ -11,7 +11,6 @@ namespace MajorityEvenElement
     {
        public int MostFrequentEven(int[] nums)
         {
-           // Hashtable table = new Hashtable();
            Dictionary<int,int> table = new Dictionary<int,int>();
             int timesOccurences = 0;
             int element = -1;
