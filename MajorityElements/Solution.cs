@@ -4,7 +4,7 @@ namespace MajorityElements
 {
     public class Solution
     {
-        public IList<int> majorityElements(int[] nums)
+        public static IList<int> majorityElements(int[] nums)
         {
             double threshold = nums.Length / 3;
 
@@ -22,24 +22,13 @@ namespace MajorityElements
                 {
                     count2++;
                 }
-                else if (count1 == 0)
+                else if(count1 == 0)
                 {
-                    cand1 = nums[i];
                     count1++;
-                }
-                else if (count2 == 0)
-                {
-                    cand2 = nums[i];
-                    count2++;
-                }
-                else if(count1 == 1)
-                {
-       
-                    count1 = 1;
                     cand1 = nums[i];
-                }else if(count2 == 2)
+                }else if(count2 == 0)
                 {
-                    count2 = 1;
+                    count2++;
                     cand2 = nums[i];
                 }
                 else
@@ -48,19 +37,48 @@ namespace MajorityElements
                     count2--;
                 }
 
-                if (count1 > threshold && !result.Contains(nums[i]))
+                    
+            }
+
+            count1 = 0;
+            count2 = 0;
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] == cand1)
                 {
-                    result.Add(nums[i]);
-                    count1 = 0;
+                    count1++;
+                }
+                if (nums[i] == cand2)
+                {
+                    count2++;
+                }
+            }
+
+            if(cand1 == cand2)
+            {
+                if (count1 > threshold)
+                {
+                    result.Add(cand1);
+                    //  count1 = 0;
+                }
+            }
+            else
+            {
+                if (count1 > threshold)
+                {
+                    result.Add(cand1);
+                    //  count1 = 0;
                 }
 
-                if (count2 > threshold && !result.Contains(nums[i]))
+                if (count2 > threshold)
                 {
-                    result.Add(nums[i]);
-                    count2 = 0;
+                    result.Add(cand2);
+                    //count2 = 0;
 
-                }                
+                }
             }
+
+  
             return result.ToArray();
         }
     }
