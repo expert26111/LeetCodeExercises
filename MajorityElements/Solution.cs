@@ -35,9 +35,7 @@ namespace MajorityElements
                 {
                     count1--;
                     count2--;
-                }
-
-                    
+                }                    
             }
 
             count1 = 0;
@@ -59,7 +57,6 @@ namespace MajorityElements
                 if (count1 > threshold)
                 {
                     result.Add(cand1);
-                    //  count1 = 0;
                 }
             }
             else
@@ -67,18 +64,15 @@ namespace MajorityElements
                 if (count1 > threshold)
                 {
                     result.Add(cand1);
-                    //  count1 = 0;
                 }
 
                 if (count2 > threshold)
                 {
                     result.Add(cand2);
-                    //count2 = 0;
 
                 }
             }
 
-  
             return result.ToArray();
         }
     }

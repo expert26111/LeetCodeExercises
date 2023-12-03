@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\bin\Debug\net7.0\Mising Number.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\bin\Debug\net7.0\Mising Number.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\bin\Debug\net7.0\Mising Number.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\bin\Debug\net7.0\Mising Number.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\bin\Debug\net7.0\Mising Number.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\refint\Mising Number.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\Mising Number.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Mising Number\obj\Debug\net7.0\ref\Mising Number.dll
