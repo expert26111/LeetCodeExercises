@@ -13,16 +13,16 @@ namespace Single_Number
             Dictionary<int,int> result = new Dictionary<int,int>();
             foreach (int num in nums) 
             {
-                if(result.ContainsKey(num))
+                result[num] = result.GetValueOrDefault(num, 0) + 1;
+            }
+            foreach(int num in nums)
+            {
+                if (result[num]==1)
                 {
-                    result.Remove(num);
-                }
-                else
-                {
-                    result.Add(num, -1);
+                    return num;
                 }
             }
-            return result.Keys.First();
+            return -1;
         }
     }
 }
