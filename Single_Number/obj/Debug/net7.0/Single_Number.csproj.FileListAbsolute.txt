@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\bin\Debug\net7.0\Single_Number.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\bin\Debug\net7.0\Single_Number.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\bin\Debug\net7.0\Single_Number.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\bin\Debug\net7.0\Single_Number.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\bin\Debug\net7.0\Single_Number.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\refint\Single_Number.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\Single_Number.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Single_Number\obj\Debug\net7.0\ref\Single_Number.dll
