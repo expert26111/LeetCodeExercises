@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\bin\Debug\net7.0\ValidAnagram.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\bin\Debug\net7.0\ValidAnagram.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\bin\Debug\net7.0\ValidAnagram.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\bin\Debug\net7.0\ValidAnagram.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\bin\Debug\net7.0\ValidAnagram.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\refint\ValidAnagram.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ValidAnagram.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\ValidAnagram\obj\Debug\net7.0\ref\ValidAnagram.dll
