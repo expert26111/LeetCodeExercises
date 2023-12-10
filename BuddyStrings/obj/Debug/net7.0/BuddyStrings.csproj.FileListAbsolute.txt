@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\bin\Debug\net7.0\BuddyStrings.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\bin\Debug\net7.0\BuddyStrings.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\bin\Debug\net7.0\BuddyStrings.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\bin\Debug\net7.0\BuddyStrings.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\bin\Debug\net7.0\BuddyStrings.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\refint\BuddyStrings.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\BuddyStrings.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BuddyStrings\obj\Debug\net7.0\ref\BuddyStrings.dll

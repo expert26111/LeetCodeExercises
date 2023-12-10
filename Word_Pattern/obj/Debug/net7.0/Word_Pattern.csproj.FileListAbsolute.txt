@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\bin\Debug\net7.0\Word_Pattern.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\bin\Debug\net7.0\Word_Pattern.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\bin\Debug\net7.0\Word_Pattern.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\bin\Debug\net7.0\Word_Pattern.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\bin\Debug\net7.0\Word_Pattern.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\refint\Word_Pattern.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\Word_Pattern.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Word_Pattern\obj\Debug\net7.0\ref\Word_Pattern.dll

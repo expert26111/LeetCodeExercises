@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\bin\Debug\net7.0\TopFrequentKElements.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\bin\Debug\net7.0\TopFrequentKElements.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\bin\Debug\net7.0\TopFrequentKElements.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\bin\Debug\net7.0\TopFrequentKElements.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\bin\Debug\net7.0\TopFrequentKElements.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\refint\TopFrequentKElements.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\TopFrequentKElements.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\TopFrequentKElements\obj\Debug\net7.0\ref\TopFrequentKElements.dll
