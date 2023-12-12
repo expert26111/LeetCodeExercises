@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\bin\Debug\net7.0\BucketSortDemo.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\bin\Debug\net7.0\BucketSortDemo.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\bin\Debug\net7.0\BucketSortDemo.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\bin\Debug\net7.0\BucketSortDemo.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\bin\Debug\net7.0\BucketSortDemo.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\refint\BucketSortDemo.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\BucketSortDemo.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\BucketSortDemo\obj\Debug\net7.0\ref\BucketSortDemo.dll
