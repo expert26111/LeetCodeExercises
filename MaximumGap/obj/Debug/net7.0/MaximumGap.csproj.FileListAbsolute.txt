@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\bin\Debug\net7.0\MaximumGap.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\bin\Debug\net7.0\MaximumGap.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\bin\Debug\net7.0\MaximumGap.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\bin\Debug\net7.0\MaximumGap.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\bin\Debug\net7.0\MaximumGap.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\refint\MaximumGap.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\MaximumGap.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MaximumGap\obj\Debug\net7.0\ref\MaximumGap.dll

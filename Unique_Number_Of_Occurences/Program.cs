@@ -1,7 +1,7 @@
 ﻿
 
 
-Console.WriteLine("Hello, World!");
+
 
 bool UniqueOccurrences(int[] arr)
 {

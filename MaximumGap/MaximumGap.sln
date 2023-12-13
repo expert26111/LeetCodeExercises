@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumGap", "MaximumGap.csproj", "{4D41B159-FE6D-488F-83C7-D0FF607EAA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiment", "..\Experiment\Experiment.csproj", "{066B0C1E-888C-46C7-A9F6-C3A4C98E8C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D41B159-FE6D-488F-83C7-D0FF607EAA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D41B159-FE6D-488F-83C7-D0FF607EAA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D41B159-FE6D-488F-83C7-D0FF607EAA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D41B159-FE6D-488F-83C7-D0FF607EAA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066B0C1E-888C-46C7-A9F6-C3A4C98E8C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066B0C1E-888C-46C7-A9F6-C3A4C98E8C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066B0C1E-888C-46C7-A9F6-C3A4C98E8C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066B0C1E-888C-46C7-A9F6-C3A4C98E8C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DEAE0A4-AE51-4D17-934B-3DE54540A129}
+	EndGlobalSection
+EndGlobal
