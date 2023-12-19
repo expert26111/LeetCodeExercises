@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\bin\Debug\net7.0\Longest_Palidrome.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\bin\Debug\net7.0\Longest_Palidrome.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\bin\Debug\net7.0\Longest_Palidrome.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\bin\Debug\net7.0\Longest_Palidrome.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\bin\Debug\net7.0\Longest_Palidrome.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\refint\Longest_Palidrome.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\Longest_Palidrome.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Longest_Palidrome\obj\Debug\net7.0\ref\Longest_Palidrome.dll

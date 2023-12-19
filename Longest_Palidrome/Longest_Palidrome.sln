@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest_Palidrome", "Longest_Palidrome.csproj", "{257A26DA-4A88-47EF-8DF0-C2E790E82ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257A26DA-4A88-47EF-8DF0-C2E790E82ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257A26DA-4A88-47EF-8DF0-C2E790E82ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257A26DA-4A88-47EF-8DF0-C2E790E82ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257A26DA-4A88-47EF-8DF0-C2E790E82ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58E12203-1639-4C7A-B5C6-7325EDA4AC40}
+	EndGlobalSection
+EndGlobal

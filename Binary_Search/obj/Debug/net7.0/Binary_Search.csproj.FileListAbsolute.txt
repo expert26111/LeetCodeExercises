@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\bin\Debug\net7.0\Binary_Search.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\bin\Debug\net7.0\Binary_Search.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\bin\Debug\net7.0\Binary_Search.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\bin\Debug\net7.0\Binary_Search.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\bin\Debug\net7.0\Binary_Search.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\refint\Binary_Search.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\Binary_Search.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Binary_Search\obj\Debug\net7.0\ref\Binary_Search.dll

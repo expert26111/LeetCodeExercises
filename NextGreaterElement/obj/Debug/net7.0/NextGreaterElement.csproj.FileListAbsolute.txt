@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\bin\Debug\net7.0\NextGreaterElement.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\bin\Debug\net7.0\NextGreaterElement.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\bin\Debug\net7.0\NextGreaterElement.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\bin\Debug\net7.0\NextGreaterElement.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\bin\Debug\net7.0\NextGreaterElement.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\refint\NextGreaterElement.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\NextGreaterElement.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\NextGreaterElement\obj\Debug\net7.0\ref\NextGreaterElement.dll
