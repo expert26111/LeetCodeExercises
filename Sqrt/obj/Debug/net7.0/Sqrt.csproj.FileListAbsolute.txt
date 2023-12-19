@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\bin\Debug\net7.0\Sqrt.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\bin\Debug\net7.0\Sqrt.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\bin\Debug\net7.0\Sqrt.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\bin\Debug\net7.0\Sqrt.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\bin\Debug\net7.0\Sqrt.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.csproj.AssemblyReference.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\refint\Sqrt.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\Sqrt.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Sqrt\obj\Debug\net7.0\ref\Sqrt.dll
