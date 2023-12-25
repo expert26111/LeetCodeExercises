@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\45605\\Desktop\\Leetcode-Ex2\\Experiment\\Experiment.csproj",
-      "projectName": "Experiment",
-      "projectPath": "C:\\Users\\45605\\Desktop\\Leetcode-Ex2\\Experiment\\Experiment.csproj",
+      "projectUniqueName": "C:\\Users\\45605\\Desktop\\Leetcode-Ex2\\Maximum_Depth_Of_Binary_Tree\\Maximum_Depth_Of_Binary_Tree.csproj",
+      "projectName": "Maximum_Depth_Of_Binary_Tree",
+      "projectPath": "C:\\Users\\45605\\Desktop\\Leetcode-Ex2\\Maximum_Depth_Of_Binary_Tree\\Maximum_Depth_Of_Binary_Tree.csproj",
       "packagesPath": "C:\\Users\\45605\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\45605\\Desktop\\Leetcode-Ex2\\Experiment\\obj\\",
+      "outputPath": "C:\\Users\\45605\\Desktop\\Leetcode-Ex2\\Maximum_Depth_Of_Binary_Tree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\45605\\AppData\\Roaming\\NuGet\\NuGet.Config",
