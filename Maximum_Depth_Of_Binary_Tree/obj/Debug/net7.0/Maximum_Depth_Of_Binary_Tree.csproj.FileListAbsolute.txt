@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\bin\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\bin\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\bin\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\bin\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\bin\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\refint\Maximum_Depth_Of_Binary_Tree.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\ref\Maximum_Depth_Of_Binary_Tree.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\obj\Debug\net7.0\Maximum_Depth_Of_Binary_Tree.sourcelink.json

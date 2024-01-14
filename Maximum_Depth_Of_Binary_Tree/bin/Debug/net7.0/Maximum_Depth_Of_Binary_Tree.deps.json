@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Maximum_Depth_Of_Binary_Tree/1.0.0": {
+        "runtime": {
+          "Maximum_Depth_Of_Binary_Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maximum_Depth_Of_Binary_Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Maximum_Depth_Of_Binary_Tree
 build_property.ProjectDir = C:\Users\45605\Desktop\Leetcode-Ex2\Maximum_Depth_Of_Binary_Tree\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
