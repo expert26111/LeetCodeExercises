@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\bin\Debug\net8.0\QueueExpiriment.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\bin\Debug\net8.0\QueueExpiriment.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\bin\Debug\net8.0\QueueExpiriment.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\bin\Debug\net8.0\QueueExpiriment.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\bin\Debug\net8.0\QueueExpiriment.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.sourcelink.json
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\refint\QueueExpiriment.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\QueueExpiriment.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\QueueExpiriment\obj\Debug\net8.0\ref\QueueExpiriment.dll

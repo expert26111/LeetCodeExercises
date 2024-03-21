@@ -1,4 +1,129 @@
 ﻿
+using System.Reflection.Metadata.Ecma335;
+using System.Windows.Markup;
+using System.Xml.Linq;
+
+
+
+TreeNode InsertIntoBST(TreeNode root, int val)
+{
+   return helper(root, val);
+  //  return root;
+    TreeNode helper(TreeNode node, int val)
+    {    
+            if(node ==  null)
+            {
+                return new TreeNode(val);
+            }
+            if(node.val > val)
+            {
+               node.right = helper(node.left,val);
+            }
+            else
+            {
+               node.left =  helper(node.right,val);
+            }
+            return node;
+    }
+}
+
+
+
+
+
+
+TreeNode prev = null;
+void Flatten(TreeNode root)
+{
+    if (root == null)
+        return;
+    Flatten(root.right);
+    Flatten(root.left);
+    root.right = prev;
+    root.left = null;
+    prev = root;
+}
+
+TreeNode left = new TreeNode(0);
+TreeNode three = new TreeNode(3);
+TreeNode right = new TreeNode(0);
+
+three.left = left;
+three.right = right;    
+
+
+//Console.WriteLine(DistributeCoins(three));
+
+
+ int DistributeCoins(TreeNode root)
+{
+    int answer = 0;
+    helper(root);
+    return answer;
+    int helper(TreeNode node)
+    {
+        
+        if(node == null)
+        {
+            return 0;
+        }
+        int coin = helper(node.left) + helper(node.right) + node.val - 1;
+        answer = answer + Math.Abs(coin);
+        return coin;
+
+    }
+}
+
+
+
+
+
+
+//TreeNode nine = new TreeNode(9);
+//TreeNode three = new TreeNode(3);
+//TreeNode twenty = new TreeNode(20);
+//TreeNode fifteen = new TreeNode(15);
+//TreeNode seven = new TreeNode(7);
+
+
+//three.left = nine;
+//three.right = twenty;
+//twenty.left = fifteen;
+//twenty.right = seven;
+
+//int theSum = SumOfLeftLeaves(three);
+
+//Console.WriteLine(theSum);
+
+int SumOfLeftLeaves(TreeNode root)
+{
+
+    if(root.left == null && root.right == null)
+    {
+        return 0;
+    }
+    int totalSum = 0;
+    return  traverse(root, true);
+    int traverse(TreeNode node, bool value)
+    {
+        if(node.left == null && node.right == null && value)
+        {
+            return totalSum += node.val;
+        }
+        if (node.left != null)
+        {
+            totalSum = 0 + traverse(node.left, true);
+        }
+        if(node.right != null) 
+        {
+            totalSum = 0 + traverse(node.right, false);
+        }
+        return totalSum;
+    }
+}
+
+
+
 IList<int> InorderTraversal(TreeNode root)
 {
     IList<int> list = new List<int>();
@@ -14,51 +139,109 @@ IList<int> InorderTraversal(TreeNode root)
 }
 
 //TreeNode one = new TreeNode(1);
-TreeNode two = new TreeNode(2);
-TreeNode three = new TreeNode(3);
-TreeNode four = new TreeNode(4);
-TreeNode five = new TreeNode(5);
-TreeNode six = new TreeNode(5);
-TreeNode seven = new TreeNode(5);
+//TreeNode two = new TreeNode(2);
+//TreeNode three = new TreeNode(3);
+//TreeNode four = new TreeNode(4);
+//TreeNode five = new TreeNode(5);
+//TreeNode six = new TreeNode(6);
+//TreeNode seven = new TreeNode(7);
 
-five.left = three;
-five.right = six;
-three.left = two;
-three.right = four;
-six.right = seven;
+//five.left = three;
+//five.right = six;
+//three.left = two;
+//three.right = four;
+//six.right = seven;
 
-TreeNode node = DeleteNode(five,3);
-//Console.WriteLine(num);
-IList<int> list = InorderTraversal(node);
-foreach(int chislo in list)
-{
-    Console.WriteLine(chislo);
-}
+//DeleteNode(five, 3);
+
+//IList<int> list = InorderTraversal(five);
+//foreach (int chislo in list)
+//{
+//    Console.WriteLine(chislo);
+//}
 
 TreeNode DeleteNode(TreeNode root, int key)
 {
-    return DeleteNodeHelper(root, key);
+    int searchValue = key;
+    TreeNode val = traverse(root);
+    return val;
+
+    TreeNode traverse(TreeNode node )
+    {
+        if (node == null)
+        {
+            return null;
+        }
+
+         node.right = traverse(node.right);
+
+         node.left = traverse(node.left);
+
+        if(node.val == searchValue) 
+        {
+           if(node.right == null && node.left == null)
+            {
+                return null;
+            }
+            else if(node.right == null && node.left != null)
+            {
+                return node.left;
+            }else if(node.left == null && node.right != null)
+            {
+                return node.right;
+            }
+            else
+            {
+                deleteNodeInTree(node.left, node.right);
+            }
+            return node.right;
+        }
+        else
+        {
+            return node;
+        }
+
+      void  deleteNodeInTree( TreeNode left, TreeNode right)
+            {
+                 while(right.left != null) 
+                    { 
+                         right = right.left;
+                    }
+                 right.left = left;
+            }
+    }
 }
 
- TreeNode DeleteNodeHelper(TreeNode node, int key)
-{
-    if (node == null)
-        return null;
 
-    node.left = DeleteNodeHelper(node.left, key);
-    node.right = DeleteNodeHelper(node.right, key);
 
-    if (node.val != key)
-        return node;
 
-    if (node.right == null)
-        return node.left;
+//TreeNode node = DeleteNode(five,3);
+//Console.WriteLine(num);
 
-    if (node.left == null)
-        return node.right;
+//TreeNode DeleteNode(TreeNode root, int key)
+//{
+//    return DeleteNodeHelper(root, key);
+//}
 
-    return MoveLeftToRight(node);
-}
+// TreeNode DeleteNodeHelper(TreeNode node, int key)
+//{
+//    if (node == null)
+//        return null;
+
+//    node.left = DeleteNodeHelper(node.left, key);
+//    node.right = DeleteNodeHelper(node.right, key);
+
+//    if (node.val != key)
+//        return node;
+
+//    if (node.right == null)
+//        return node.left;
+
+//    if (node.left == null)
+//        return node.right;
+
+//    return MoveLeftToRight(node);
+//}
 
  TreeNode MoveLeftToRight(TreeNode node)
 {

@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\bin\Debug\net8.0\IncreasingBST.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\bin\Debug\net8.0\IncreasingBST.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\bin\Debug\net8.0\IncreasingBST.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\bin\Debug\net8.0\IncreasingBST.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\bin\Debug\net8.0\IncreasingBST.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.sourcelink.json
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\refint\IncreasingBST.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\IncreasingBST.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\IncreasingBST\obj\Debug\net8.0\ref\IncreasingBST.dll

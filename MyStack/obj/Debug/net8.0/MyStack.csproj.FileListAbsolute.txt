@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\bin\Debug\net8.0\MyStack.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\bin\Debug\net8.0\MyStack.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\bin\Debug\net8.0\MyStack.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\bin\Debug\net8.0\MyStack.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\bin\Debug\net8.0\MyStack.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.sourcelink.json
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\refint\MyStack.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\MyStack.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\MyStack\obj\Debug\net8.0\ref\MyStack.dll

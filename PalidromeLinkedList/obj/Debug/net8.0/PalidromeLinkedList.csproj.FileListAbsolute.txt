@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\bin\Debug\net8.0\PalidromeLinkedList.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\bin\Debug\net8.0\PalidromeLinkedList.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\bin\Debug\net8.0\PalidromeLinkedList.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\bin\Debug\net8.0\PalidromeLinkedList.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\bin\Debug\net8.0\PalidromeLinkedList.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.sourcelink.json
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\refint\PalidromeLinkedList.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\PalidromeLinkedList.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\PalidromeLinkedList\obj\Debug\net8.0\ref\PalidromeLinkedList.dll
