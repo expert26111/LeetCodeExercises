@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UnAble_To_Eat_1700/1.0.0": {
+        "runtime": {
+          "UnAble_To_Eat_1700.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnAble_To_Eat_1700/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

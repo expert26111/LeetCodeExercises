@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalidromeLinkedList", "..\P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncreasingBST", "..\IncreasingBST\IncreasingBST.csproj", "{3FB8BF61-C7D5-4683-99EF-69DE9BE4234E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicates_1047", "..\RemoveAllAdjacentDuplicates_1047\RemoveAllAdjacentDuplicates_1047.csproj", "{433C1CCC-3B8D-4405-830F-49F1E916B12D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveAllAdjacentDuplicates_1047", "..\RemoveAllAdjacentDuplicates_1047\RemoveAllAdjacentDuplicates_1047.csproj", "{433C1CCC-3B8D-4405-830F-49F1E916B12D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnAble_To_Eat_1700", "..\UnAble_To_Eat_1700\UnAble_To_Eat_1700.csproj", "{4A7FE595-2C43-4305-933B-6C91FF95A918}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{433C1CCC-3B8D-4405-830F-49F1E916B12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{433C1CCC-3B8D-4405-830F-49F1E916B12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{433C1CCC-3B8D-4405-830F-49F1E916B12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7FE595-2C43-4305-933B-6C91FF95A918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7FE595-2C43-4305-933B-6C91FF95A918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7FE595-2C43-4305-933B-6C91FF95A918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7FE595-2C43-4305-933B-6C91FF95A918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

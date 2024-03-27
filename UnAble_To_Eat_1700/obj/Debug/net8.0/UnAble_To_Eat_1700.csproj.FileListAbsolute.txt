@@ -1,0 +1,15 @@
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\bin\Debug\net8.0\UnAble_To_Eat_1700.exe
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\bin\Debug\net8.0\UnAble_To_Eat_1700.deps.json
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\bin\Debug\net8.0\UnAble_To_Eat_1700.runtimeconfig.json
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\bin\Debug\net8.0\UnAble_To_Eat_1700.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\bin\Debug\net8.0\UnAble_To_Eat_1700.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.AssemblyInfoInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.AssemblyInfo.cs
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.csproj.CoreCompileInputs.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.sourcelink.json
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\refint\UnAble_To_Eat_1700.dll
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.pdb
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\UnAble_To_Eat_1700.genruntimeconfig.cache
+C:\Users\45605\Desktop\Leetcode-Ex2\UnAble_To_Eat_1700\obj\Debug\net8.0\ref\UnAble_To_Eat_1700.dll
